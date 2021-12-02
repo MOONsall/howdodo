@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "howdodo ",
+  "description": "howdodo",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/ MOONsall /howdodo ",
+  "repository": "https://github.com/ MOONsall /howdodo ",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
